@@ -588,7 +588,7 @@ void loop() {
 
 By referring to an equation with 3 unknowns, namely x (set of messages), y (splitting or subset of messages) and z (number of splits of messages processed), the satisfactory result corresponds to the case allowing the observation of a maximum of messages processed in a message set.
 
-<img alt="Message Flow, Processing Slice and Number of Possible Iterations" src="https://github.com/madou-sowData-processing-with-Arduino-IDE-and-IOT/blob/main/ONLINE-MACHINE-LEARNING-AND-ONLINE-TECHNIQUE-WITH-REAL-DATA/images/TableauWmessages.png" width=60% height=60%  title="Message Flow, Processing Slice and Number of Possible Iterations"/>
+<img alt="Message Flow, Processing Slice and Number of Possible Iterations" src="https://github.com/madou-sow/Data-processing-with-Arduino-IDE-and-IOT/blob/main/images/TableauWmessages.png" width=60% height=60%  title="Message Flow, Processing Slice and Number of Possible Iterations"/>
 
 ###### **Table  : Message Flow, Processing Slice and Number of Possible Iterations**
 
