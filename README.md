@@ -24,7 +24,7 @@
 #### Data analysis: Using data from Tower Perret, Local MQTT server and Arduino IDE
 #### KMeans Clustering Algorithm Implemented for the CampusIOT's LoRaWAN Datasets
 
-### Content of the subsection : [Measuring the amount of electricity consumed by the ESP32-VROOM-32D during data processing with Arduino](https://github.com/madou-sow/Data-processing-with-Arduino-IDE-and-IOT/blob/main/ARDUINO/Data-processing-with-Arduino-IDE-and-IOT/MEASURE-THE-AMOUNT-OF-ELECTRICITY-CONSUMED/README.md)
+### Content of the subsection : [Measuring the amount of electricity consumed by the ESP32-VROOM-32D during data processing with Arduino](https://github.com/madou-sow/Data-processing-with-Arduino-IDE-and-IOT/blob/main/MEASURE-THE-AMOUNT-OF-ELECTRICITY-CONSUMED/README.md)
 #### Necessary material
 #### Handling : follow the steps as indicated
 #### Exploitation of results
